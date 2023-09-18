@@ -1,2 +1,3 @@
-# geome_senses
-Sensory capacity in geometrid moths
+### Sensory capacity in geometrid moths
+
+Updates soon.
